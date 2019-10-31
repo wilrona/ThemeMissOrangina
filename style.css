@@ -4,3 +4,9 @@ Author: Aligodu
 Version: 1.0
 Description: Template du concours miss orangina
 */
+
+
+.crellyslider > .cs-progress-bar {
+    bottom: 0 !important;
+    top: auto;
+}

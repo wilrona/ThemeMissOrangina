@@ -18,8 +18,8 @@
 
             <ul class="uk-subnav uk-subnav-divider uk-flex uk-flex-center">
                 <li class="uk-text-white uk-text-lowercase uk-text-small single-font-flavour">All Copyrights Reserved</li>
-                <li class="uk-text-white uk-text-lowercase uk-text-small single-font-flavour">2016 - <?= date('Y'); ?></li>
-                <li class="single-font-flavour uk-text-white uk-text-small"><a href="#" class="uk-text-white uk-margin-small-right" target="_blank">Accent Com</a>  designed by  <a href="#" class="uk-text-white uk-text-lowercase uk-margin-small-left" target="_blank">Aligodu</a> </li>
+                <li class="uk-text-white uk-text-lowercase uk-text-small single-font-flavour">© <?= date('Y'); ?></li>
+                <li class="single-font-flavour uk-text-white uk-text-small"><a href="http://accentcom.agency/" class="uk-text-white uk-margin-small-right" target="_blank">Accent Com</a>  designed by  <a href="https://aligodu.cm/" class="uk-text-white uk-text-lowercase uk-margin-small-left" target="_blank">Aligodu</a> </li>
             </ul>
 
         </div>

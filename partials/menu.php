@@ -46,7 +46,7 @@
     </div>
     <div class="uk-navbar-right">
         <?php if(tr_options_field('options.lien_instagram')): ?>
-            <a href="<?= tr_options_field('options.lien_instagram') ?>" class="uk-icon-button uk-icon-instagram" uk-icon="instagram" target="_blank"></a>
+            <a href="<?= tr_options_field('options.lien_instagram') ?>" class="uk-icon-button uk-icon-image" style="background-image:url('<?= get_template_directory_uri() ?>/img/instagram-ico.jpeg');" target="_blank"></a>
         <?php endif; ?>
         <?php if(tr_options_field('options.lien_youtube')): ?>
             <a href="<?= tr_options_field('options.lien_youtube') ?>" class="uk-icon-button uk-icon-youtube" uk-icon="youtube" target="_blank"></a>

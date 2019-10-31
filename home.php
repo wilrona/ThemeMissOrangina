@@ -8,7 +8,7 @@
 
 
 
-        <div class="uk-position-relative uk-cover-container" uk-height-viewport="offset-bottom: true">
+        <div class="uk-position-relative uk-cover-container">
             <?php echo do_shortcode(tr_posts_field('slider')); ?>
         </div>
         <?php get_template_part('partials/menu') ?>
